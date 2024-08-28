@@ -18,9 +18,9 @@
     "dependencies": {
         "@docusaurus/core": "2.0.0-beta.13",
         "@docusaurus/plugin-google-gtag": "2.0.0-beta.13",
-        "@docusaurus/plugin-ideal-image": "2.0.0-beta.13",
+        "@docusaurus/plugin-ideal-image": "2.0.1",
         "@docusaurus/plugin-sitemap": "2.0.0-beta.13",
-        "@docusaurus/preset-classic": "2.0.0-beta.13",
+        "@docusaurus/preset-classic": "2.0.1",
         "aos": "^2.3.4",
         "autoprefixer": "^10.4.0",
         "clsx": "^1.1.1",
